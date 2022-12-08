@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/blaize15](https://github.com/blaize15)
 
-- 📝 I regularly write articles on [https://noobyco.hashnode.dev/](https://noobyco.hashnode.dev/)
+- 📝 I write articles on [https://noobyco.hashnode.dev/](https://noobyco.hashnode.dev/)
 
 - 💬 Ask me about **Electronics, Linux-101, Webdev**
 
@@ -32,13 +32,32 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/noobyco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="noobyco" height="30" width="40" /></a>
-<a href="https://twitter.com/noobyco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noobyco" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-moinuddin-ab13a1203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-moinuddin-ab13a1203/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16242569/noobyco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="noobyco" height="30" width="40" /></a>
-<a href="https://instagram.com/noobyco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noobyco" height="30" width="40" /></a>
-<a href="https://medium.com/@blaizebiebre1155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@blaizebiebre1155" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/moinuddinshekh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moinuddinshekh2" height="30" width="40" /></a>
+  
+  
+
+  <a href="https://twitter.com/noobyco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noobyco" height="30" width="40" /></a>
+
+  <a href="https://www.linkedin.com/in/md-moinuddin-ab13a1203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-moinuddin-ab13a1203/" height="30" width="40" /></a>
+
+<a href="https://youtube.com/@noobyco1630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noobyco" height="30" width="40" /></a>
+
+  <a href="https://instagram.com/noobyco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noobyco" height="30" width="40" /></a>
+
+
+  
+<a href="https://hashnode.com/@noobycox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@noobycox" height="30" width="40" /></a>
+
+  <a href="https://medium.com/@blaizebiebre1155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@blaizebiebre1155" height="30" width="40" /></a>
+  
+  <a href="https://dev.to/noobyco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="noobyco" height="30" width="40" /></a>
+  
+
+
+  <a href="https://stackoverflow.com/users/16242569/noobyco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="noobyco" height="30" width="40" /></a>
+
+
+  <a href="https://www.leetcode.com/moinuddinshekh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moinuddinshekh2" height="30" width="40" /></a>
+
 </p>
 
 <br>

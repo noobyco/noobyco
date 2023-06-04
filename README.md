@@ -27,13 +27,7 @@
 
 # Latest Hashnode Blogs
 
-<!-- BLOG-POST-LIST:START -->
-- [🦊 Javascript ecosystem is driving me crazy.](https://noobyco.codes/javascript-ecosystem-is-driving-me-crazy)
-- [🦄Microcontrollers support modern languages](https://noobyco.codes/microcontrollers-support-modern-languages)
-- [Break into the Linux ecosystem](https://noobyco.codes/break-into-the-linux-ecosystem)
-- [Linux for dummies](https://noobyco.codes/linux-for-dummies)
-- [My journey into the world of IoT](https://noobyco.codes/my-journey-into-the-world-of-iot)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td>🦊 Javascript ecosystem is driving me crazy.</td><td>https://noobyco.codes/javascript-ecosystem-is-driving-me-crazy</td></tr><tr><td>🦄Microcontrollers support modern languages</td><td>https://noobyco.codes/microcontrollers-support-modern-languages</td></tr><tr><td>Break into the Linux ecosystem</td><td>https://noobyco.codes/break-into-the-linux-ecosystem</td></tr><tr><td>Linux for dummies</td><td>https://noobyco.codes/linux-for-dummies</td></tr><tr><td>My journey into the world of IoT</td><td>https://noobyco.codes/my-journey-into-the-world-of-iot</td></tr><!-- BLOG-POST-LIST:END -->
 
 <br>
 

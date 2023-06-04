@@ -24,7 +24,9 @@
 - ⚡ Fun fact **Raspberry py's are freakin delicious**
 
 <br>
-# Blog posts
+
+# Latest Hashnode Blogs
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

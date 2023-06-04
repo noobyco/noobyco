@@ -14,6 +14,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull in hashnode.com posts
-        uses: noobycox/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://@noobycox.hashnode.dev/rss.xml"

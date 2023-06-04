@@ -28,6 +28,11 @@
 # Latest Hashnode Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [🦊 Javascript ecosystem is driving me crazy.](https://noobyco.codes/javascript-ecosystem-is-driving-me-crazy)
+- [🦄Microcontrollers support modern languages](https://noobyco.codes/microcontrollers-support-modern-languages)
+- [Break into the Linux ecosystem](https://noobyco.codes/break-into-the-linux-ecosystem)
+- [Linux for dummies](https://noobyco.codes/linux-for-dummies)
+- [My journey into the world of IoT](https://noobyco.codes/my-journey-into-the-world-of-iot)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

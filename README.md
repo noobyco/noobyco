@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Moinuddin</h1>
+<br>
+
+<img title="a title" alt="Alt text" src="https://github.com/Blaize15/Blaize15/assets/59837486/164ff252-7eb8-4f17-9833-6bff88c1b71f">
+
 <h3 align="center">A curious technology explorer 🎈</h3>
 
 <br>

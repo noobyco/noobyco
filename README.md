@@ -45,11 +45,7 @@
 <table>
   <tr><th>Title</th><th>Link</th></tr>
 
-  <!-- BLOG-POST-LIST:START -->
-  
-<tr><td>🦊 Javascript ecosystem is driving me crazy.</td><td>https://noobyco.codes/javascript-ecosystem-is-driving-me-crazy</td></tr><tr><td>🦄Microcontrollers support modern languages</td><td>https://noobyco.codes/microcontrollers-support-modern-languages</td></tr><tr><td>Break into the Linux ecosystem</td><td>https://noobyco.codes/break-into-the-linux-ecosystem</td></tr><tr><td>Linux for dummies</td><td>https://noobyco.codes/linux-for-dummies</td></tr><tr><td>My journey into the world of IoT</td><td>https://noobyco.codes/my-journey-into-the-world-of-iot</td></tr>
-  
-  <!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>🔮WASM Landscape 2023</td><td>https://noobyco.codes/wasm-landscape-2023</td></tr><tr><td>🚡Programming language, under-the-hood stuff :Documentary.</td><td>https://noobyco.codes/programming-language-under-the-hood-stuff-documentary</td></tr><tr><td>🦊 Javascript ecosystem is driving me crazy.</td><td>https://noobyco.codes/javascript-ecosystem-is-driving-me-crazy</td></tr><tr><td>🦄Microcontrollers support modern languages</td><td>https://noobyco.codes/microcontrollers-support-modern-languages</td></tr><tr><td>Break into the Linux ecosystem</td><td>https://noobyco.codes/break-into-the-linux-ecosystem</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 

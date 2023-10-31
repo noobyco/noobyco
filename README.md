@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning to **Blog**
 
-- 👨‍💻 All of my projects are available at [https://github.com/blaize15](https://github.com/blaize15)
+- 👨‍💻 All of my projects are available at [https://github.com/noobyco](https://github.com/noobyco)
 
 - 📝 I write articles on [https://noobyco.codes/](https://noobyco.codes/)
 

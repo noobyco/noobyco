@@ -2,7 +2,8 @@
 
 <br>
 
-<img title="a title" alt="Alt text" src="https://github.com/Blaize15/Blaize15/assets/59837486/164ff252-7eb8-4f17-9833-6bff88c1b71f">
+
+![bannerxx](https://github.com/noobyco/noobyco/assets/59837486/408215e6-ede2-4f70-86c1-925ade76fbfe)
 
 <!-- <h2 align="center">A curious technology explorer </h2> -->
 

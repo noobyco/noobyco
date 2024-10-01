@@ -1,45 +1,14 @@
-<h1 align="center">Hi 👋, I'm Md Moinuddin</h1>
+<h1 align="center">Hi 👋, I'm Shekh Md Moinuddin</h1>
 
 <br>
 
-![Github README](https://github.com/noobyco/noobyco/assets/59837486/66e70478-cd25-4cac-a7d1-6132c6acd883)
-
-
-<!-- <h2 align="center">A curious technology explorer </h2> -->
-
-<br>
-<br>
-
-<p align="left">
-<br>
-<img src="https://komarev.com/ghpvc/?username=noobyco&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="noobyco" />
-</p>
-
-<br>
-
-<p align="left">  </p>
-
-
-
-- 🔭 I’m currently working on [my Portfolio](https://github.com/Blaize15/portfolio)
-
-- 🌱 I’m currently learning to **Blog**
-
-- 👨‍💻 All of my projects are available at [https://github.com/noobyco](https://github.com/noobyco)
-
-- 📝 I write articles on [https://noobyco.codes/](https://noobyco.codes/)
-
-- 💬 Ask me about **Software development, Linux, Electronic**
-
-- 📫 How to reach me **noobycox@proton.me**
-
-- ⚡ Fun fact **Raspberry py's are freakin delicious**
+![Black Liquid Minimalist Daily Quotes LinkedIn Banner](https://github.com/user-attachments/assets/32bd068a-e8ba-4c2a-b656-bc3280a7875b)
 
 <br>
 
 
 
-# Latest Hashnode Blogs
+### Blogs ~ [https://blog.smmoinuddin.tech](https://blog.smmoinuddin.tech/)
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>

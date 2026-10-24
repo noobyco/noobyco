@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shekh Md Moinuddin</h1>
+<h1 align="center">Hi 👋, I'm Shekh Muhammad Moinuddin</h1>
 
 <br>
 
@@ -8,7 +8,7 @@
 
 
 
-### Blogs ~ [https://blog.smmoinuddin.tech](https://blog.smmoinuddin.tech/)
+### Blogs ~ [https://blog.moinuddin.site](https://blog.moinuddin.site/)
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>

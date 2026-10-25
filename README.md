@@ -2,7 +2,8 @@
 
 <br>
 
-![Black Liquid Minimalist Daily Quotes LinkedIn Banner](https://github.com/user-attachments/assets/32bd068a-e8ba-4c2a-b656-bc3280a7875b)
+<img width="3000" height="1000" alt="x-banner" src="https://github.com/user-attachments/assets/24b3f9b7-709f-421d-bbed-174645649e84" />
+
 
 <br>
 
